@@ -100,73 +100,72 @@ Resultados também disponíveis em [output_e5.txt](desafio-e5/respostas/output_e
 ```
 "mudanças na taxa de juros"
 ```
-Pergunta: mudanças na taxa de juros
-Resultado: 1 (Score: 0.8657)
-Título: Copom mantém Selic em 13,75% ao ano pela quarta reunião consecutiva
-Fonte: Banco Central do Brasil
-Data: 2023-08-02
-Notícia: O Comitê de Política Monetária (Copom) do Banco Central do Brasil decidiu, por unanimidade, manter a taxa básica de juros (Selic) em 13,75% ao ano. Esta é a quarta reunião consecutiva em que o comitê opta pela manutenção. Segundo o comunicado oficial, o Copom avaliou que o ambiente inflacionário ainda exige cautela, embora o IPCA acumulado nos últimos doze meses tenha apresentado desaceleração consistente. O colegiado ponderou, ainda, os efeitos defasados da política monetária já em vigor sobre a atividade econômica. Leia o comunicado completo em www.bcb.gov.br
+Resultado: 1 (Score: 0.8657)  
+Título: Copom mantém Selic em 13,75% ao ano pela quarta reunião consecutiva  
+Fonte: Banco Central do Brasil  
+Data: 2023-08-02  
+Notícia: O Comitê de Política Monetária (Copom) do Banco Central do Brasil decidiu, por unanimidade, manter a taxa básica de juros (Selic) em 13,75% ao ano. Esta é a quarta reunião consecutiva em que o comitê opta pela manutenção. Segundo o comunicado oficial, o Copom avaliou que o ambiente inflacionário ainda exige cautela, embora o IPCA acumulado nos últimos doze meses tenha apresentado desaceleração consistente. O colegiado ponderou, ainda, os efeitos defasados da política monetária já em vigor sobre a atividade econômica. Leia o comunicado completo em www.bcb.gov.br  
 
-Resultado: 2 (Score: 0.8581)
-Título: Inadimplência das famílias sobe para 6,3% em julho, aponta BC
-Fonte: Banco Central do Brasil
-Data: 2023-08-25
-Notícia: A inadimplência das famílias — operações com atraso superior a 90 dias — subiu para 6,3% em julho, alta de 0,1 ponto percentual em relação a junho, segundo dados do Banco Central. O indicador acumula crescimento de 0,8 pp nos últimos doze meses. O endividamento das famílias com o sistema financeiro atingiu 49,1% da renda acumulada em doze meses. O comprometimento da renda com o serviço da dívida ficou em 28,5%. O crédito pessoal não consignado, modalidade mais cara e de maior risco, apresentou inadimplência de 9,1%. Especialistas atribuem a piora ao efeito defasado dos juros altos sobre as finanças das famílias.
+Resultado: 2 (Score: 0.8581)  
+Título: Inadimplência das famílias sobe para 6,3% em julho, aponta BC  
+Fonte: Banco Central do Brasil  
+Data: 2023-08-25  
+Notícia: A inadimplência das famílias — operações com atraso superior a 90 dias — subiu para 6,3% em julho, alta de 0,1 ponto percentual em relação a junho, segundo dados do Banco Central. O indicador acumula crescimento de 0,8 pp nos últimos doze meses. O endividamento das famílias com o sistema financeiro atingiu 49,1% da renda acumulada em doze meses. O comprometimento da renda com o serviço da dívida ficou em 28,5%. O crédito pessoal não consignado, modalidade mais cara e de maior risco, apresentou inadimplência de 9,1%. Especialistas atribuem a piora ao efeito defasado dos juros altos sobre as finanças das famílias.  
 
-Resultado: 3 (Score: 0.8518)
-Título: Crédito total no Brasil atinge R$ 5,6 trilhões com desaceleração no crescimento
-Fonte: Banco Central do Brasil
-Data: 2023-08-25
-Notícia: O estoque total de crédito no sistema financeiro nacional atingiu R$ 5,6 trilhões em julho de 2023, segundo o Relatório de Crédito do Banco Central. O crescimento anual desacelerou para 8,3%, ante 16,4% registrado em julho de 2022. O crédito às pessoas físicas cresceu 11,4% em doze meses, enquanto o crédito a empresas avançou apenas 5,1%. A taxa média de juros nas operações de crédito livre ficou em 40,2% ao ano, ainda em patamar elevado. O Banco Central observa que a desaceleração reflete tanto as condições financeiras mais restritivas quanto a maior seleção de risco pelas instituições financeiras.
+Resultado: 3 (Score: 0.8518)  
+Título: Crédito total no Brasil atinge R$ 5,6 trilhões com desaceleração no crescimento  
+Fonte: Banco Central do Brasil  
+Data: 2023-08-25  
+Notícia: O estoque total de crédito no sistema financeiro nacional atingiu R$ 5,6 trilhões em julho de 2023, segundo o Relatório de Crédito do Banco Central. O crescimento anual desacelerou para 8,3%, ante 16,4% registrado em julho de 2022. O crédito às pessoas físicas cresceu 11,4% em doze meses, enquanto o crédito a empresas avançou apenas 5,1%. A taxa média de juros nas operações de crédito livre ficou em 40,2% ao ano, ainda em patamar elevado. O Banco Central observa que a desaceleração reflete tanto as condições financeiras mais restritivas quanto a maior seleção de risco pelas instituições financeiras.  
 
-Resultado: 4 (Score: 0.8511)
-Título: Selic deve recuar a 9% até o fim de 2024, projetam economistas
-Fonte: Banco Central do Brasil
-Data: 2023-08-15
-Notícia: Economistas consultados pelo Banco Central no Relatório Focus revisaram para baixo a projeção para a taxa Selic ao final de 2024, de 9,25% para 9,00% ao ano. A mudança reflete a percepção de que o ciclo de afrouxamento monetário poderá ser mais agressivo caso a inflação continue a recuar. Para o final de 2023, a mediana das expectativas permanece em 11,75%. O IPCA esperado para 2023 foi revisado de 4,92% para 4,84%, ainda acima da meta de 3,25%. O presidente do BC, Roberto Campos Neto, reiterou que as decisões serão tomadas "reunião a reunião", sem compromissos antecipados com um ritmo de corte específico.
+Resultado: 4 (Score: 0.8511)  
+Título: Selic deve recuar a 9% até o fim de 2024, projetam economistas  
+Fonte: Banco Central do Brasil  
+Data: 2023-08-15  
+Notícia: Economistas consultados pelo Banco Central no Relatório Focus revisaram para baixo a projeção para a taxa Selic ao final de 2024, de 9,25% para 9,00% ao ano. A mudança reflete a percepção de que o ciclo de afrouxamento monetário poderá ser mais agressivo caso a inflação continue a recuar. Para o final de 2023, a mediana das expectativas permanece em 11,75%. O IPCA esperado para 2023 foi revisado de 4,92% para 4,84%, ainda acima da meta de 3,25%. O presidente do BC, Roberto Campos Neto, reiterou que as decisões serão tomadas "reunião a reunião", sem compromissos antecipados com um ritmo de corte específico.  
 
-Resultado: 5 (Score: 0.8460)
-Título: Copom inicia ciclo de corte e reduz Selic para 13,25%
-Fonte: Valor Econômico
-Data: 2023-08-02
-Notícia: Em movimento amplamente esperado pelo mercado financeiro, o Copom reduziu a taxa Selic em 0,50 ponto percentual, de 13,75% para 13,25% ao ano. É o primeiro corte desde agosto de 2020. O comitê sinalizou que, se o cenário base se confirmar, antecipa cortes de mesma magnitude nas próximas reuniões. O comunicado destacou que a desinflação acontece em ritmo mais rápido que o esperado, tanto no núcleo quanto nos preços administrados. Economistas ouvidos pelo Valor avaliam que a Selic pode encerrar 2023 em torno de 11,75%.
+Resultado: 5 (Score: 0.8460)  
+Título: Copom inicia ciclo de corte e reduz Selic para 13,25%  
+Fonte: Valor Econômico  
+Data: 2023-08-02  
+Notícia: Em movimento amplamente esperado pelo mercado financeiro, o Copom reduziu a taxa Selic em 0,50 ponto percentual, de 13,75% para 13,25% ao ano. É o primeiro corte desde agosto de 2020. O comitê sinalizou que, se o cenário base se confirmar, antecipa cortes de mesma magnitude nas próximas reuniões. O comunicado destacou que a desinflação acontece em ritmo mais rápido que o esperado, tanto no núcleo quanto nos preços administrados. Economistas ouvidos pelo Valor avaliam que a Selic pode encerrar 2023 em torno de 11,75%.  
 
 ---
-O pior dos resultados do modelo, ele ainda consegue encontrar as noticias que falam diretamente de juros, mas dá menor relevância às noticias que utilizam apenas as palavras "taxa selic", e não "taxa de juros". Uma notícia que ele falha em recolher é a notícia de título 'Copom inicia ciclo de corte e reduz Selic para 13,25%'. Para obter resultados melhores ainda com esse mesmo modelo, basta realizar uma busca pela 'taxa selic' em vez de 'taxa de juros'. 
+O menos eficiente dos esultados do modelo, ele ainda consegue encontrar as noticias que falam diretamente de juros, mas dá menor relevância às noticias que utilizam apenas as palavras "taxa selic", e não "taxa de juros". Uma notícia que ele falha em recolher é a notícia de título 'Copom inicia ciclo de corte e reduz Selic para 13,25%'. Para obter resultados melhores ainda com esse mesmo modelo, basta realizar uma busca pela 'taxa selic' em vez de 'taxa de juros'. 
 
 ---
 ```
 "mercado de trabalho e desemprego"
 ```
-Resultado: 1 (Score: 0.8738)
-Título: Taxa de desemprego cai para 7,9% no segundo trimestre, menor nível desde 2014
-Fonte: IBGE
-Data: 2023-08-29
-Notícia: A taxa de desemprego no Brasil recuou para 7,9% no segundo trimestre de 2023, o menor nível desde o quarto trimestre de 2014, quando foi de 6,5%. Os dados são da Pesquisa Nacional por Amostra de Domicílios (PNAD Contínua), do IBGE. O número de desocupados caiu para 8,5 milhões de pessoas, uma redução de 1,1 milhão em relação ao trimestre anterior. O emprego formal, com carteira assinada, cresceu 2,3% no período. A renda média real dos trabalhadores também registrou crescimento de 3,7% na comparação anual, chegando a R$ 2.958. Acesse a PNAD Contínua completa
+Resultado: 1 (Score: 0.8738)  
+Título: Taxa de desemprego cai para 7,9% no segundo trimestre, menor nível desde 2014  
+Fonte: IBGE  
+Data: 2023-08-29  
+Notícia: A taxa de desemprego no Brasil recuou para 7,9% no segundo trimestre de 2023, o menor nível desde o quarto trimestre de 2014, quando foi de 6,5%. Os dados são da Pesquisa Nacional por Amostra de Domicílios (PNAD Contínua), do IBGE. O número de desocupados caiu para 8,5 milhões de pessoas, uma redução de 1,1 milhão em relação ao trimestre anterior. O emprego formal, com carteira assinada, cresceu 2,3% no período. A renda média real dos trabalhadores também registrou crescimento de 3,7% na comparação anual, chegando a R$ 2.958. Acesse a PNAD Contínua completa  
 
-Resultado: 2 (Score: 0.8603)
-Título: Desemprego juvenil no Brasil ainda preocupa apesar de melhora geral
-Fonte: IBGE
-Data: 2023-08-30
-Notícia: Apesar da melhora generalizada no mercado de trabalho, a taxa de desemprego entre jovens de 18 a 24 anos ainda se mantém elevada, em 17,8% no segundo trimestre de 2023, mais do que o dobro da taxa geral de 7,9%, segundo a PNAD Contínua do IBGE. O emprego informal entre os jovens também preocupa: 52% dos jovens empregados não possuem carteira assinada. Programas governamentais de qualificação profissional e aprendizagem foram apontados como essenciais para reduzir esse hiato. Especialistas do Ministério do Trabalho destacam que a inserção de jovens no mercado formal exige, além de qualificação, mudanças estruturais na economia.
+Resultado: 2 (Score: 0.8603)  
+Título: Desemprego juvenil no Brasil ainda preocupa apesar de melhora geral  
+Fonte: IBGE  
+Data: 2023-08-30  
+Notícia: Apesar da melhora generalizada no mercado de trabalho, a taxa de desemprego entre jovens de 18 a 24 anos ainda se mantém elevada, em 17,8% no segundo trimestre de 2023, mais do que o dobro da taxa geral de 7,9%, segundo a PNAD Contínua do IBGE. O emprego informal entre os jovens também preocupa: 52% dos jovens empregados não possuem carteira assinada. Programas governamentais de qualificação profissional e aprendizagem foram apontados como essenciais para reduzir esse hiato. Especialistas do Ministério do Trabalho destacam que a inserção de jovens no mercado formal exige, além de qualificação, mudanças estruturais na economia.  
 
-Resultado: 3 (Score: 0.8417)
-Título: IGP-M registra terceira deflação consecutiva em agosto
-Fonte: FGV IBRE
-Data: 2023-08-30
-Notícia: O Índice Geral de Preços — Mercado (IGP-M) registrou variação de -0,53% em agosto, a terceira deflação consecutiva. No acumulado de doze meses, o índice acumula queda de 6,96%, segundo a FGV IBRE. O IPA (atacado) recuou 0,80%, com destaque para a queda nos preços dos produtos agropecuários (-1,45%). O IPC (consumidor) subiu 0,19%, influenciado principalmente pelos grupos de Alimentação e Saúde e Cuidados Pessoais. O INCC (construção civil) avançou 0,22%, reflexo das pressões pontuais em mão de obra no setor.
+Resultado: 3 (Score: 0.8417)  
+Título: IGP-M registra terceira deflação consecutiva em agosto  
+Fonte: FGV IBRE  
+Data: 2023-08-30  
+Notícia: O Índice Geral de Preços — Mercado (IGP-M) registrou variação de -0,53% em agosto, a terceira deflação consecutiva. No acumulado de doze meses, o índice acumula queda de 6,96%, segundo a FGV IBRE. O IPA (atacado) recuou 0,80%, com destaque para a queda nos preços dos produtos agropecuários (-1,45%). O IPC (consumidor) subiu 0,19%, influenciado principalmente pelos grupos de Alimentação e Saúde e Cuidados Pessoais. O INCC (construção civil) avançou 0,22%, reflexo das pressões pontuais em mão de obra no setor.  
 
-Resultado: 4 (Score: 0.8340)
-Título: Confiança do consumidor sobe pelo quarto mês seguido em agosto
-Fonte: FGV IBRE
-Data: 2023-08-29
-Notícia: O Índice de Confiança do Consumidor (ICC) da FGV IBRE avançou 1,2 pontos em agosto, para 92,4 pontos, a quarta alta consecutiva. O resultado ainda está abaixo da média histórica de 100 pontos, mas aponta para recuperação gradual do otimismo das famílias. A melhora foi observada tanto no componente de Situação Atual (+0,8 pontos) quanto nas Expectativas (+1,5 pontos). Entre os fatores apontados pelos consumidores como positivos estão a queda do desemprego e o ar arrefecimento da inflação. Para acessar o relatório completo, visite o Portal FGV IBRE.
+Resultado: 4 (Score: 0.8340)  
+Título: Confiança do consumidor sobe pelo quarto mês seguido em agosto  
+Fonte: FGV IBRE  
+Data: 2023-08-29  
+Notícia: O Índice de Confiança do Consumidor (ICC) da FGV IBRE avançou 1,2 pontos em agosto, para 92,4 pontos, a quarta alta consecutiva. O resultado ainda está abaixo da média histórica de 100 pontos, mas aponta para recuperação gradual do otimismo das famílias. A melhora foi observada tanto no componente de Situação Atual (+0,8 pontos) quanto nas Expectativas (+1,5 pontos). Entre os fatores apontados pelos consumidores como positivos estão a queda do desemprego e o ar arrefecimento da inflação. Para acessar o relatório completo, visite o Portal FGV IBRE.  
 
-Resultado: 5 (Score: 0.8328)
-Título: Inflação ao produtor (IPA) desacelera e pressão sobre preços finais diminui
-Fonte: FGV IBRE
-Data: 2023-08-10
-Notícia: O Índice de Preços ao Produtor Amplo (IPA), que mede a variação de preços no atacado, registrou deflação de 0,55% em julho, segundo a FGV IBRE. O resultado reforça a tendência de menor pressão inflacionária sobre os preços ao consumidor nos próximos meses. Os produtos agropecuários registraram queda de 1,12%, enquanto os industriais recuaram 0,21%. Analistas da FGV destacam que a transmissão da deflação no atacado para o consumidor ocorre com defasagem de dois a três meses. O IGP-M, que também computa o IPA em sua fórmula, acumula queda de 5,18% nos últimos doze meses até julho.
+Resultado: 5 (Score: 0.8328)  
+Título: Inflação ao produtor (IPA) desacelera e pressão sobre preços finais diminui  
+Fonte: FGV IBRE  
+Data: 2023-08-10  
+Notícia: O Índice de Preços ao Produtor Amplo (IPA), que mede a variação de preços no atacado, registrou deflação de 0,55% em julho, segundo a FGV IBRE. O resultado reforça a tendência de menor pressão inflacionária sobre os preços ao consumidor nos próximos meses. Os produtos agropecuários registraram queda de 1,12%, enquanto os industriais recuaram 0,21%. Analistas da FGV destacam que a transmissão da deflação no atacado para o consumidor ocorre com defasagem de dois a três meses. O IGP-M, que também computa o IPA em sua fórmula, acumula queda de 5,18% nos últimos doze meses até julho.  
 
 ---
 
@@ -176,35 +175,35 @@ Nesse caso o modelo teve uma ótima perfomance. Conseguiu buscar as notícias de
 ```
 "inflação e preços ao consumidor"
 ```
-Resultado: 1 (Score: 0.8913)
-Título: IPCA de julho registra 0,12%, menor resultado para o mês desde 2006
-Fonte: IBGE
-Data: 2023-08-09
-Notícia: O Índice Nacional de Preços ao Consumidor Amplo (IPCA) ficou em 0,12% em julho de 2023, o menor resultado para o mês desde 2006, quando havia recuado 0,04%. No acumulado do ano, o índice chega a 3,19%, e em doze meses, a 3,99%. O grupo de Alimentação e Bebidas foi o principal responsável pela desaceleração, com variação negativa de 0,07%. Já Transportes apresentaram alta de 0,39%, puxados pelo aumento nos preços dos combustíveis. Dados completos disponíveis em ibge.gov.br.
+Resultado: 1 (Score: 0.8913)  
+Título: IPCA de julho registra 0,12%, menor resultado para o mês desde 2006  
+Fonte: IBGE  
+Data: 2023-08-09  
+Notícia: O Índice Nacional de Preços ao Consumidor Amplo (IPCA) ficou em 0,12% em julho de 2023, o menor resultado para o mês desde 2006, quando havia recuado 0,04%. No acumulado do ano, o índice chega a 3,19%, e em doze meses, a 3,99%. O grupo de Alimentação e Bebidas foi o principal responsável pela desaceleração, com variação negativa de 0,07%. Já Transportes apresentaram alta de 0,39%, puxados pelo aumento nos preços dos combustíveis. Dados completos disponíveis em ibge.gov.br.  
 
-Resultado: 2 (Score: 0.8876)
-Título: Inflação ao produtor (IPA) desacelera e pressão sobre preços finais diminui
-Fonte: FGV IBRE
-Data: 2023-08-10
-Notícia: O Índice de Preços ao Produtor Amplo (IPA), que mede a variação de preços no atacado, registrou deflação de 0,55% em julho, segundo a FGV IBRE. O resultado reforça a tendência de menor pressão inflacionária sobre os preços ao consumidor nos próximos meses. Os produtos agropecuários registraram queda de 1,12%, enquanto os industriais recuaram 0,21%. Analistas da FGV destacam que a transmissão da deflação no atacado para o consumidor ocorre com defasagem de dois a três meses. O IGP-M, que também computa o IPA em sua fórmula, acumula queda de 5,18% nos últimos doze meses até julho.
+Resultado: 2 (Score: 0.8876)  
+Título: Inflação ao produtor (IPA) desacelera e pressão sobre preços finais diminui  
+Fonte: FGV IBRE  
+Data: 2023-08-10  
+Notícia: O Índice de Preços ao Produtor Amplo (IPA), que mede a variação de preços no atacado, registrou deflação de 0,55% em julho, segundo a FGV IBRE. O resultado reforça a tendência de menor pressão inflacionária sobre os preços ao consumidor nos próximos meses. Os produtos agropecuários registraram queda de 1,12%, enquanto os industriais recuaram 0,21%. Analistas da FGV destacam que a transmissão da deflação no atacado para o consumidor ocorre com defasagem de dois a três meses. O IGP-M, que também computa o IPA em sua fórmula, acumula queda de 5,18% nos últimos doze meses até julho.  
 
-Resultado: 3 (Score: 0.8854)
-Título: IGP-M registra terceira deflação consecutiva em agosto
-Fonte: FGV IBRE
-Data: 2023-08-30
-Notícia: O Índice Geral de Preços — Mercado (IGP-M) registrou variação de -0,53% em agosto, a terceira deflação consecutiva. No acumulado de doze meses, o índice acumula queda de 6,96%, segundo a FGV IBRE. O IPA (atacado) recuou 0,80%, com destaque para a queda nos preços dos produtos agropecuários (-1,45%). O IPC (consumidor) subiu 0,19%, influenciado principalmente pelos grupos de Alimentação e Saúde e Cuidados Pessoais. O INCC (construção civil) avançou 0,22%, reflexo das pressões pontuais em mão de obra no setor.
+Resultado: 3 (Score: 0.8854)  
+Título: IGP-M registra terceira deflação consecutiva em agosto  
+Fonte: FGV IBRE  
+Data: 2023-08-30  
+Notícia: O Índice Geral de Preços — Mercado (IGP-M) registrou variação de -0,53% em agosto, a terceira deflação consecutiva. No acumulado de doze meses, o índice acumula queda de 6,96%, segundo a FGV IBRE. O IPA (atacado) recuou 0,80%, com destaque para a queda nos preços dos produtos agropecuários (-1,45%). O IPC (consumidor) subiu 0,19%, influenciado principalmente pelos grupos de Alimentação e Saúde e Cuidados Pessoais. O INCC (construção civil) avançou 0,22%, reflexo das pressões pontuais em mão de obra no setor.  
 
 Resultado: 4 (Score: 0.8602)
-Título: Confiança do consumidor sobe pelo quarto mês seguido em agosto
-Fonte: FGV IBRE
-Data: 2023-08-29
-Notícia: O Índice de Confiança do Consumidor (ICC) da FGV IBRE avançou 1,2 pontos em agosto, para 92,4 pontos, a quarta alta consecutiva. O resultado ainda está abaixo da média histórica de 100 pontos, mas aponta para recuperação gradual do otimismo das famílias. A melhora foi observada tanto no componente de Situação Atual (+0,8 pontos) quanto nas Expectativas (+1,5 pontos). Entre os fatores apontados pelos consumidores como positivos estão a queda do desemprego e o ar arrefecimento da inflação. Para acessar o relatório completo, visite o Portal FGV IBRE.
+Título: Confiança do consumidor sobe pelo quarto mês seguido em agosto  
+Fonte: FGV IBRE  
+Data: 2023-08-29  
+Notícia: O Índice de Confiança do Consumidor (ICC) da FGV IBRE avançou 1,2 pontos em agosto, para 92,4 pontos, a quarta alta consecutiva. O resultado ainda está abaixo da média histórica de 100 pontos, mas aponta para recuperação gradual do otimismo das famílias. A melhora foi observada tanto no componente de Situação Atual (+0,8 pontos) quanto nas Expectativas (+1,5 pontos). Entre os fatores apontados pelos consumidores como positivos estão a queda do desemprego e o ar arrefecimento da inflação. Para acessar o relatório completo, visite o Portal FGV IBRE.  
 
-Resultado: 5 (Score: 0.8471)
-Título: Copom mantém Selic em 13,75% ao ano pela quarta reunião consecutiva
-Fonte: Banco Central do Brasil
-Data: 2023-08-02
-Notícia: O Comitê de Política Monetária (Copom) do Banco Central do Brasil decidiu, por unanimidade, manter a taxa básica de juros (Selic) em 13,75% ao ano. Esta é a quarta reunião consecutiva em que o comitê opta pela manutenção. Segundo o comunicado oficial, o Copom avaliou que o ambiente inflacionário ainda exige cautela, embora o IPCA acumulado nos últimos doze meses tenha apresentado desaceleração consistente. O colegiado ponderou, ainda, os efeitos defasados da política monetária já em vigor sobre a atividade econômica. Leia o comunicado completo em www.bcb.gov.br
+Resultado: 5 (Score: 0.8471)  
+Título: Copom mantém Selic em 13,75% ao ano pela quarta reunião consecutiva  
+Fonte: Banco Central do Brasil  
+Data: 2023-08-02  
+Notícia: O Comitê de Política Monetária (Copom) do Banco Central do Brasil decidiu, por unanimidade, manter a taxa básica de juros (Selic) em 13,75% ao ano. Esta é a quarta reunião consecutiva em que o comitê opta pela manutenção. Segundo o comunicado oficial, o Copom avaliou que o ambiente inflacionário ainda exige cautela, embora o IPCA acumulado nos últimos doze meses tenha apresentado desaceleração consistente. O colegiado ponderou, ainda, os efeitos defasados da política monetária já em vigor sobre a atividade econômica. Leia o comunicado completo em www.bcb.gov.br  
 
 ---
 
