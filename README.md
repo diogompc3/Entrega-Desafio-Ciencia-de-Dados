@@ -23,7 +23,7 @@ Python em uso: 3.14
 
 ### Executando:
 
-A pasta contendo os scripts e dados é da pasta desafio-e5.
+A pasta contendo os scripts e dados é a pasta desafio-e5. Certifique-se da existência do arquivo noticias_brutas.json dentro da pasta dados. 
 Os scritps sendo executados precisam estar na mesma pasta onde se encontram as pastas 'dados' e 'respostas', o que já é o caso aqui no repositório. Execute os scripts nessa ordem: 
 
 1. clean.py
@@ -54,7 +54,7 @@ Para lidar com o caso extremo da noticia de id original 18, foi optado por inser
 
 Para manipular os dados e carregar o json nessa etapa, foi optado usar biblioteca pandas, por ser possível gerar codigos mais diretos para lidar com os problemas ainda presentes. Principalmente foi usado o Series.apply() para aplicar a função cleaning a toda a coluna texto do Data Frame, DataFrane.dropna() para deletar toda a linha que continha o caso extremo, e DataFrame.index para corrigir o indice das notícias. Esse conteudo foi então salvo em desafio-e5/dados/noticias_limpas.json. 
 
-
+As notícias limpas são geradas sempre dentro da pasta dados, com o nome noticias_limpas.json. Para fins de entrega do projeto, ela também será incluída na raiz desse repositório.
 
 ## Etapa 2 — Geração de Embeddings e justificativa do modelo escolhido
 
