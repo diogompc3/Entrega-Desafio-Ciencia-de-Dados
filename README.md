@@ -70,6 +70,14 @@ Foi decidido manter o uso do modelo multilingual-e5-small, quando na etapa do mo
 
 A causa disso aparenta ser uma relação superior da "mudança na taxa de juros" com a taxa Selic, enquanto o e5 priorizou a presença da palavra "juros" na notícia. O modelo qwen3 assim trouxe notícias mais relevantes. Dito isso, os usos muito superiores de recursos e demora tanto na criação das embeddings quando (em menor escala) no motor de busca, justificam a permanência no modelo e5. Os arquivos dos scripts e das embeddings usando o qwen3 ainda estarão presentes nesse repositório para fins de registro.
 
+Comparações de tempo:
+
+|        Modelo         |    embedding    |     Queries     |
+| --------------------- | --------------- | --------------- |
+| multilingual-e5-small | 9.93637 seconds | 6.99520 seconds |
+| qwen-3-Embedding-0.6B | 56.6752 seconds | 9.88437 seconds |
+
+
 Por fim, as embeddings foram salvas em um arquivo npy, como ndarrays, por representar maior segurança para o usuário do que um arquivo .pkl e ser lido com mais rapidez e menor uso de memória que .json.
 
 
