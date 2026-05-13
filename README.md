@@ -1,12 +1,12 @@
 # Desafio Técnico — Estágio em Ciência de Dados — Resposta
 
----
+
 
 ## Resumo
 
 Projeto criado para o desafio técnico para a vaga de Estágio em Ciência de Dados. O projeto consiste em 3 etapas, limpeza e tratamento do texto, geração de embeddings e a implementação de um motor de busca semântico.
 
----
+
 ## Como rodar o projeto:
 
 ### Requerimentos:
@@ -23,7 +23,8 @@ Python em uso: 3.14
 
 ### Executando:
 
-Os scritps sendo executados precisam estar na mesma pasta onde se encontram as pastas 'dados' e 'respostas'. Execute os scripts nessa ordem: 
+A pasta contendo os scripts e dados é da pasta desafio-e5.
+Os scritps sendo executados precisam estar na mesma pasta onde se encontram as pastas 'dados' e 'respostas', o que já é o caso aqui no repositório. Execute os scripts nessa ordem: 
 
 1. clean.py
     - Limpeza do texto
@@ -38,7 +39,7 @@ Se desejar executar buscas diferentes das presentes já no código, altere a var
 
 Se desejar visualizar respostas da ultima execução, no caso das vindas do script query_e5.py, estarão presentes em Respostas/output_e5.txt. As respostas das queries vindas de query_e5_inputquery.py estarão em Respostas/output_e5_inputquery.txt, e serão gravadas cumulativamente. 
 
----
+
 ## Etapa 1 — Limpeza e Tratamento de Texto
 
 Foi criada uma função onde foram estabelecidos os critérios para limpar o texto sujo. 
@@ -53,7 +54,7 @@ Para lidar com o caso extremo da noticia de id original 18, foi optado por inser
 
 Para manipular os dados e carregar o json nessa etapa, foi optado usar biblioteca pandas, por ser possível gerar codigos mais diretos para lidar com os problemas ainda presentes. Principalmente foi usado o Series.apply() para aplicar a função cleaning a toda a coluna texto do Data Frame, DataFrane.dropna() para deletar toda a linha que continha o caso extremo, e DataFrame.index para corrigir o indice das notícias. Esse conteudo foi então salvo em desafio-e5/dados/noticias_limpas.json. 
 
----
+
 
 ## Etapa 2 — Geração de Embeddings e justificativa do modelo escolhido
 
@@ -71,7 +72,7 @@ A causa disso aparenta ser uma relação superior da "mudança na taxa de juros"
 
 Por fim, as embeddings foram salvas em um arquivo npy, como ndarrays, por representar maior segurança para o usuário do que um arquivo .pkl e ser lido com mais rapidez e menor uso de memória que .json.
 
----
+
 
 ## Etapa 3 — Motor de Busca Semântico
 
@@ -82,11 +83,12 @@ No script usando o modelo qwen3, igualmente a documentação foi seguida, tentan
 
 Ao olhar as scores de cada resultado, considere que as scores no modelo e5 vão de 0.7 até 1.0, de acordo com a documentação.
 
----
+
 ## Resultados Etapa 3:
 
 Resultados também disponíveis em desafio-e5/dados/output_e5.txt. Também inclusos os resultados do script querry_qwen.py em desafio-qwen3/output_qwen.py.
 
+---
 ```
 "mudanças na taxa de juros"
 ```
@@ -120,6 +122,7 @@ Fonte: FGV IBRE
 Data: 2023-08-10
 Notícia: O Índice de Preços ao Produtor Amplo (IPA), que mede a variação de preços no atacado, registrou deflação de 0,55% em julho, segundo a FGV IBRE . O resultado reforça a tendência de menor pressão inflacionária sobre os preços ao consumidor nos próximos meses. Os produtos agropecuários registraram queda de 1,12%, enquanto os industriais recuaram 0,21%. Analistas da FGV destacam que a transmissão da deflação no atacado para o consumidor ocorre com defasagem de dois a três meses. O IGP-M, que também computa o IPA em sua fórmula, acumula queda de 5,18% nos últimos doze meses até julho.
 
+---
 ```
 "mercado de trabalho e desemprego"
 ```
@@ -153,6 +156,7 @@ Fonte: FGV IBRE
 Data: 2023-08-10
 Notícia: O Índice de Preços ao Produtor Amplo (IPA), que mede a variação de preços no atacado, registrou deflação de 0,55% em julho, segundo a FGV IBRE . O resultado reforça a tendência de menor pressão inflacionária sobre os preços ao consumidor nos próximos meses. Os produtos agropecuários registraram queda de 1,12%, enquanto os industriais recuaram 0,21%. Analistas da FGV destacam que a transmissão da deflação no atacado para o consumidor ocorre com defasagem de dois a três meses. O IGP-M, que também computa o IPA em sua fórmula, acumula queda de 5,18% nos últimos doze meses até julho.
 
+---
 ```
 "inflação e preços ao consumidor"
 ```
