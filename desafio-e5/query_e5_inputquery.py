@@ -6,10 +6,9 @@ from pathlib import Path
 p_dados = Path(__file__).parent / 'dados'
 p_respostas = Path(__file__).parent / 'respostas'
 
-# Como as embeddings não tiveram os metadados embutidos, necessário carregar as noticias_limpas também.
 try:  #checando se os arquivos necessários foram gerados. Deveriam ter sido caso tenham seguido as etapas, então pedindo para executar os scripts anteriores se preciso.
     arq_1 = p_dados / 'embeddings.npy'
-    arq_2 = p_respostas / 'noticias_limpas.json'
+    arq_2 = p_dados / 'noticias_limpas.json'
     embd_news = np.load(arq_1)                            
     with open(arq_2, 'r', encoding='utf-8') as f:        
         print('Arquivo com as noticias limpas existe, prosseguindo:')
@@ -19,7 +18,7 @@ except RuntimeError:    #caso não exista conexão, avisar usuário.
     print('Conexão não encontrada. Esse script necessita de uma conexão com a internet.') 
     exit()
 except ValueError:
-    print('embeddings_qwen.py está corrompido ou se encontra em um formato inesperado.\nPor favor tente executar embed_qwen.py novamente.')
+    print('embeddings_qwen.py está corrompido ou se encontra em um formato inesperado.\nPor favor tente executar embed_e5.py novamente.')
     exit()
 except FileNotFoundError:
     print('Um dos arquivos requeridos não existem.\nPor favor tente executar clean.py e/ou embed_qwen.py.')
