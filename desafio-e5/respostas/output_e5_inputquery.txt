@@ -1,0 +1,19 @@
+Pergunta: Mudanças Taxa Selic
+Resultado: 1 (Score: 0.8527)
+Título: Copom mantém Selic em 13,75% ao ano pela quarta reunião consecutiva
+Fonte: Banco Central do Brasil
+Data: 2023-08-02
+Notícia: O Comitê de Política Monetária (Copom) do Banco Central do Brasil decidiu, por unanimidade, manter a taxa básica de juros (Selic) em 13,75% ao ano. Esta é a quarta reunião consecutiva em que o comitê opta pela manutenção. Segundo o comunicado oficial, o Copom avaliou que o ambiente inflacionário ainda exige cautela, embora o IPCA acumulado nos últimos doze meses tenha apresentado desaceleração consistente. O colegiado ponderou, ainda, os efeitos defasados da política monetária já em vigor sobre a atividade econômica. Leia o comunicado completo em www.bcb.gov.br
+
+Resultado: 2 (Score: 0.8403)
+Título: Copom inicia ciclo de corte e reduz Selic para 13,25%
+Fonte: Valor Econômico
+Data: 2023-08-02
+Notícia: Em movimento amplamente esperado pelo mercado financeiro, o Copom reduziu a taxa Selic em 0,50 ponto percentual, de 13,75% para 13,25% ao ano. É o primeiro corte desde agosto de 2020. O comitê sinalizou que, se o cenário base se confirmar, antecipa cortes de mesma magnitude nas próximas reuniões. O comunicado destacou que a desinflação acontece em ritmo mais rápido que o esperado , tanto no núcleo quanto nos preços administrados. Economistas ouvidos pelo Valor avaliam que a Selic pode encerrar 2023 em torno de 11,75%.
+
+Resultado: 3 (Score: 0.8378)
+Título: Selic deve recuar a 9% até o fim de 2024, projetam economistas
+Fonte: Banco Central do Brasil
+Data: 2023-08-15
+Notícia: Economistas consultados pelo Banco Central no Relatório Focus revisaram para baixo a projeção para a taxa Selic ao final de 2024, de 9,25% para 9,00% ao ano. A mudança reflete a percepção de que o ciclo de afrouxamento monetário poderá ser mais agressivo caso a inflação continue a recuar. Para o final de 2023, a mediana das expectativas permanece em 11,75%. O IPCA esperado para 2023 foi revisado de 4,92% para 4,84%, ainda acima da meta de 3,25%. O presidente do BC, Roberto Campos Neto, reiterou que as decisões serão tomadas "reunião a reunião", sem compromissos antecipados com um ritmo de corte específico.
+
